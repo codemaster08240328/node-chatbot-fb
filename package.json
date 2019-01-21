@@ -1,0 +1,23 @@
+{
+  "name": "chatbot",
+  "version": "1.0.0",
+  "description": "Make chatbot with NodeJS + Wit.ai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codemaster08240328/node-chatbot-fb.git"
+  },
+  "author": "codemaster",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codemaster08240328/node-chatbot-fb/issues"
+  },
+  "homepage": "https://github.com/codemaster08240328/node-chatbot-fb#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  }
+}
