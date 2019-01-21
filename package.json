@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/codemaster08240328/node-chatbot-fb#readme",
   "dependencies": {
+    "apiai": "^4.0.3",
     "body-parser": "^1.18.3",
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "request": "^2.88.0"
   }
 }
